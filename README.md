@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saad!
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning with Tensorflow
+- 🌱 I’m currently learning Deep Learning with Pytorch
 - 💞️ I’m looking to collaborate on any cool projects! 
 - 📫 How to reach me saadahmed0930@gmail.com
 
