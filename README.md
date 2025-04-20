@@ -1,7 +1,3 @@
-I try to solve problems via coding and coding only
-
-If you have an idea, dont hesitate to reach out!
-
 - 📫 How to reach me saadahmed0930@gmail.com
 
 <!---
